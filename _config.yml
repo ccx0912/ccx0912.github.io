@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: a4504c0d590ccb920da0                            #生成的clientID
-  clientSecret:8c40fe415b6bbcb8afbda2cfd79a25d9e3e2b614     #生成的clientSecret
+  clientSecret: 8c40fe415b6bbcb8afbda2cfd79a25d9e3e2b614    #生成的clientSecret
   repo: ccx0912.github.io    #仓库名称
   owner: ccx0912    #github用户名
   admin: ccx0912
