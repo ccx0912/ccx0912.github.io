@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog # 你博客的标题
-SEOTitle: 天宝爸爸的博客 | BY Blog  # 显示在浏览器上搜索的时候显示的标题
+title: 天宝爸爸的博客 # 你博客的标题
+SEOTitle: 天宝爸爸的博客 # 显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg # 显示在首页的背景图片
 email: ccx0912@qq.com 
 description: "天宝爸爸的记忆."
@@ -11,7 +11,7 @@ github_repo: "https://github.com/ccx0912/ccx0912.github.io.git" # you code repos
 
 # Sidebar settings # 侧边栏.
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "happiness"
+sidebar-about-description: "Don't fork please.``"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
